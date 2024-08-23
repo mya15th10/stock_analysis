@@ -1,0 +1,14 @@
+﻿session_id,stock_id,open_price,close_price,high_price,low_price,volume_detail,ceiling_price,floor_price,buy_volume,sell_volume,net_volume,matched_value,adjust_price,change_percent,outstanding_share,name,code,stock_space,join_date,leave_date,init_price,category,year,month,day_of_month,volume_session
+4713,2756,12.8,13.4,14.0,12.8,2600,0.0,0.0,0,0,0,35680000.0,13.4,2.9,0,Công ty Cổ phần Tứ Hải Hà Nam,THM,UPCOM,2023-10-18,,0.0,,2023,10,18,865640000000.0
+4712,2756,15.7,13.7,15.7,13.7,2400,0.0,0.0,0,0,0,33170000.0,13.7,0.0,0,Công ty Cổ phần Tứ Hải Hà Nam,THM,UPCOM,2023-10-18,,0.0,,2023,10,19,484743000000.0
+4711,2756,14.0,14.0,14.0,14.0,1200,0.0,0.0,0,0,0,16800000.0,14.0,0.2,0,Công ty Cổ phần Tứ Hải Hà Nam,THM,UPCOM,2023-10-18,,0.0,,2023,10,20,566432000000.0
+4710,2756,12.5,14.0,14.0,12.5,1400,0.0,0.0,0,0,0,17800000.0,14.0,0.0,0,Công ty Cổ phần Tứ Hải Hà Nam,THM,UPCOM,2023-10-18,,0.0,,2023,10,23,377188000000.0
+4709,2756,12.8,13.0,13.1,12.8,1600,0.0,0.0,0,0,0,20620000.0,13.0,0.3,0,Công ty Cổ phần Tứ Hải Hà Nam,THM,UPCOM,2023-10-18,,0.0,,2023,10,24,374395000000.0
+4708,2756,14.8,14.0,14.8,12.4,1400,0.0,0.0,0,0,0,18740000.0,14.0,1.1,0,Công ty Cổ phần Tứ Hải Hà Nam,THM,UPCOM,2023-10-18,,0.0,,2023,10,25,542002000000.0
+session_id,stock_id,open_price,close_price,high_price,low_price,volume_detail,ceiling_price,floor_price,buy_volume,sell_volume,net_volume,matched_value,adjust_price,change_percent,outstanding_share,name,code,stock_space,join_date,leave_date,init_price,category,year,month,day_of_month,volume_session
+4713,2756,12.8,13.4,14.0,12.8,2600,0.0,0.0,0,0,0,35680000.0,13.4,2.9,0,Công ty Cổ phần Tứ Hải Hà Nam,THM,UPCOM,2023-10-18,,0.0,,2023,10,18,865640000000.0
+4712,2756,15.7,13.7,15.7,13.7,2400,0.0,0.0,0,0,0,33170000.0,13.7,0.0,0,Công ty Cổ phần Tứ Hải Hà Nam,THM,UPCOM,2023-10-18,,0.0,,2023,10,19,484743000000.0
+4711,2756,14.0,14.0,14.0,14.0,1200,0.0,0.0,0,0,0,16800000.0,14.0,0.2,0,Công ty Cổ phần Tứ Hải Hà Nam,THM,UPCOM,2023-10-18,,0.0,,2023,10,20,566432000000.0
+4710,2756,12.5,14.0,14.0,12.5,1400,0.0,0.0,0,0,0,17800000.0,14.0,0.0,0,Công ty Cổ phần Tứ Hải Hà Nam,THM,UPCOM,2023-10-18,,0.0,,2023,10,23,377188000000.0
+4709,2756,12.8,13.0,13.1,12.8,1600,0.0,0.0,0,0,0,20620000.0,13.0,0.3,0,Công ty Cổ phần Tứ Hải Hà Nam,THM,UPCOM,2023-10-18,,0.0,,2023,10,24,374395000000.0
+4708,2756,14.8,14.0,14.8,12.4,1400,0.0,0.0,0,0,0,18740000.0,14.0,1.1,0,Công ty Cổ phần Tứ Hải Hà Nam,THM,UPCOM,2023-10-18,,0.0,,2023,10,25,542002000000.0

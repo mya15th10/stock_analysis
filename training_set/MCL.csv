@@ -1,0 +1,10 @@
+﻿session_id,stock_id,open_price,close_price,high_price,low_price,volume_detail,ceiling_price,floor_price,buy_volume,sell_volume,net_volume,matched_value,adjust_price,change_percent,outstanding_share,name,code,stock_space,join_date,leave_date,init_price,category,year,month,day_of_month,volume_session
+2611,2103,1.0,1.0,1.0,1.0,0,0.0,0.0,0,0,0,0.0,1.0,0.0,0,Công ty Cổ phần Phát triển nhà và Sản xuất vật liệu xây dựng Chí Linh ,MCL,HNX,2010-12-13,2013-10-22,0.0,,2013,10,21,372179000000.0
+2610,2103,1.0,1.0,1.0,1.0,0,0.0,0.0,0,0,0,0.0,1.0,0.0,0,Công ty Cổ phần Phát triển nhà và Sản xuất vật liệu xây dựng Chí Linh ,MCL,HNX,2010-12-13,2013-10-22,0.0,,2013,10,22,254130000000.0
+2610,2103,0.0,1.0,1.0,1.0,0,0.0,0.0,0,0,0,0.0,1.0,0.0,0,Công ty Cổ phần Phát triển nhà và Sản xuất vật liệu xây dựng Chí Linh ,MCL,HNX,2010-12-13,2013-10-22,0.0,,2013,10,22,254130000000.0
+2610,2103,1.0,1.0,1.0,1.0,0,0.0,0.0,0,0,0,0.0,1.0,0.0,0,Công ty Cổ phần Phát triển nhà và Sản xuất vật liệu xây dựng Chí Linh ,MCL,HNX,2010-12-13,2013-10-22,0.0,,2013,10,22,254130000000.0
+session_id,stock_id,open_price,close_price,high_price,low_price,volume_detail,ceiling_price,floor_price,buy_volume,sell_volume,net_volume,matched_value,adjust_price,change_percent,outstanding_share,name,code,stock_space,join_date,leave_date,init_price,category,year,month,day_of_month,volume_session
+2611,2103,1.0,1.0,1.0,1.0,0,0.0,0.0,0,0,0,0.0,1.0,0.0,0,Công ty Cổ phần Phát triển nhà và Sản xuất vật liệu xây dựng Chí Linh ,MCL,HNX,2010-12-13,2013-10-22,0.0,,2013,10,21,372179000000.0
+2610,2103,1.0,1.0,1.0,1.0,0,0.0,0.0,0,0,0,0.0,1.0,0.0,0,Công ty Cổ phần Phát triển nhà và Sản xuất vật liệu xây dựng Chí Linh ,MCL,HNX,2010-12-13,2013-10-22,0.0,,2013,10,22,254130000000.0
+2610,2103,0.0,1.0,1.0,1.0,0,0.0,0.0,0,0,0,0.0,1.0,0.0,0,Công ty Cổ phần Phát triển nhà và Sản xuất vật liệu xây dựng Chí Linh ,MCL,HNX,2010-12-13,2013-10-22,0.0,,2013,10,22,254130000000.0
+2610,2103,1.0,1.0,1.0,1.0,0,0.0,0.0,0,0,0,0.0,1.0,0.0,0,Công ty Cổ phần Phát triển nhà và Sản xuất vật liệu xây dựng Chí Linh ,MCL,HNX,2010-12-13,2013-10-22,0.0,,2013,10,22,254130000000.0
