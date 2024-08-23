@@ -1,0 +1,6 @@
+﻿session_id,stock_id,open_price,close_price,high_price,low_price,volume_detail,ceiling_price,floor_price,buy_volume,sell_volume,net_volume,matched_value,adjust_price,change_percent,outstanding_share,name,code,stock_space,join_date,leave_date,init_price,category,year,month,day_of_month,volume_session
+10582,1944,16.5,16.5,16.5,16.5,0,0.0,0.0,0,0,0,0.0,16.5,0.0,0,Quỹ Đầu Tư Chứng Khoán Việt Nam,VFMVF1,HOSE,2004-11-08,2013-09-24,0.0,,2014,12,16,1928050000000.0
+10581,1944,16.5,16.5,16.5,16.5,0,0.0,0.0,0,0,0,0.0,16.5,0.0,0,Quỹ Đầu Tư Chứng Khoán Việt Nam,VFMVF1,HOSE,2004-11-08,2013-09-24,0.0,,2014,12,17,2733320000000.0
+session_id,stock_id,open_price,close_price,high_price,low_price,volume_detail,ceiling_price,floor_price,buy_volume,sell_volume,net_volume,matched_value,adjust_price,change_percent,outstanding_share,name,code,stock_space,join_date,leave_date,init_price,category,year,month,day_of_month,volume_session
+10582,1944,16.5,16.5,16.5,16.5,0,0.0,0.0,0,0,0,0.0,16.5,0.0,0,Quỹ Đầu Tư Chứng Khoán Việt Nam,VFMVF1,HOSE,2004-11-08,2013-09-24,0.0,,2014,12,16,1928050000000.0
+10581,1944,16.5,16.5,16.5,16.5,0,0.0,0.0,0,0,0,0.0,16.5,0.0,0,Quỹ Đầu Tư Chứng Khoán Việt Nam,VFMVF1,HOSE,2004-11-08,2013-09-24,0.0,,2014,12,17,2733320000000.0
